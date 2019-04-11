@@ -1,0 +1,15 @@
+body {
+    background-image: url("../images/connectwork.png");
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navBtn {
+    background-color: rgb(61, 61, 61, 0.4);
+    border-color: rgba(255, 0, 0, 0.534);
+}
+
+.followNav {
+    background-color: rgb(61, 61, 61, 0.5);
+}
+
