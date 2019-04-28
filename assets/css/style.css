@@ -9,6 +9,11 @@ body {
     border-color: rgba(255, 0, 0, 0.534);
 }
 
+.imgFilter {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
 .card-bg {
    background-color: rgb(39, 39, 39);
 }
